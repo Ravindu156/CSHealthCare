@@ -1,0 +1,80 @@
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HealthCareTuto.Patients.resources
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HealthCareDB.mdf
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HealthCareDB_log.ldf
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HealthCareTuto.Tests.resources
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HealthCareTuto.Diagnosis.resources
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HealthCareTuto.Form1.resources
+C:\Users\Ravindu\Documents\2.1  Semester\Visual Programming\Group Project\Health Care System Youtube\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HealthCareTuto.Login.resources
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HealthCareDB.mdf
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\HealthCareDB_log.ldf
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HealthCareTuto.Diagnosis.resources
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HealthCareTuto.Form1.resources
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HealthCareTuto.Login.resources
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HealthCareTuto.Patients.resources
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\HealthCareTuto.Tests.resources
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ravindu\Videos\HCN\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

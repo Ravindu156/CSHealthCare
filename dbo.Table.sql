@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[PatientTb]
+(
+	[PatCode] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [PatName] VARCHAR(50) NOT NULL, 
+    [PatGen] VARCHAR(50) NOT NULL, 
+    [PatDOB] DATE NOT NULL, 
+    [PatPhone] VARCHAR(50) NOT NULL, 
+    [PatAdd] VARCHAR(255) NOT NULL
+)
